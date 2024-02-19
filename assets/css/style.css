@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+
+
+.navbar-custom {
+    background-color: transparent !important;
+}
+.navbar-custom .navbar-brand {
+    color: white;
+}
+.navbar-custom .nav-link .active{
+    color: gainsboro;
+}
+.navbar-custom .nav-link {
+    color: gainsboro;
+}
+
+.fa-solid .fa-plane{
+    color: white;
+}
