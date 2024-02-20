@@ -24,6 +24,9 @@
     color: white;
 }
 
+.somos{
+    font-size: 35px;
+}
 
 .icoback {
     background-color: cyan;
@@ -51,7 +54,6 @@
 
 footer{
     background-color: cyan;
-    height: 200px;
     color: white;
-    text-align: center;
+    font-size: 50px;
 }
